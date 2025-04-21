@@ -1,7 +1,8 @@
 ![eth-daily-price](https://github.com/user-attachments/assets/480e9303-aa5a-4677-993b-6768bb9abf65)
-![eth-daily-price](https://github.com/user-attachments/assets/e182df50-232b-46c5-96dd-c5c8b19b02eb)
+Eth-daily-price
 ## Hi there 👋
-
+![dashboard-pie-chart](https://github.com/user-attachments/assets/528f7c65-96ad-409c-80df-083098b6f6e9)
+dashboard-pie-chart
 <!--
 **roseteromeo56/roseteromeo56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
