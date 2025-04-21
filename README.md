@@ -5,6 +5,7 @@ Eth-daily-price
 dashboard-pie-chart
 <!--
 **roseteromeo56/roseteromeo56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![eth-supply-growth](https://github.com/user-attachments/assets/60aea0f7-fa5b-4db6-a4e8-ec1243cbe654)
 
 Here are some ideas to get you started:
 
@@ -17,5 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![blockscan-logo-dark](https://github.com/user-attachments/assets/2f9997d5-5531-4d0f-8754-1ebf19e9abfc)
+![eth-market-cap](https://github.com/user-attachments/assets/0180a010-72a7-4d56-9534-3c1f8eff7219)
+eth-market-cap
 ![logo-etherscan](https://github.com/user-attachments/assets/902d71b1-f89f-43df-9198-0f96269359da)
