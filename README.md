@@ -1,3 +1,5 @@
+![eth-daily-price](https://github.com/user-attachments/assets/480e9303-aa5a-4677-993b-6768bb9abf65)
+![eth-daily-price](https://github.com/user-attachments/assets/e182df50-232b-46c5-96dd-c5c8b19b02eb)
 ## Hi there 👋
 
 <!--
