@@ -1,5 +1,6 @@
 avg-block-size![avg-block-size](https://github.com/user-attachments/assets/a1beadf5-6466-47ef-a662-de68df2d3231)![daily-active-erc20-address](https://github.com/user-attachments/assets/3ef6a5b5-ccab-4b8e-bd46-f61c245fb0a2) daily-active-erc20-address
 ![Last 7 Days - Sorted by USD Volume (1)](https://github.com/user-attachments/assets/b4c83e76-7164-43ad-b3e9-c67d8db070dd)
+![Chart](https://github.com/user-attachments/assets/2ecb1328-66d4-4790-be76-df6c2de2eded)
 
 ![eth-daily-price](https://github.com/user-attachments/assets/480e9303-aa5a-4677-993b-6768bb9abf65) ![daily-block-rewards](https://github.com/user-attachments/assets/f3570852-3f94-424b-b4cc-30c231bbb0be)
 daily-block-reward
