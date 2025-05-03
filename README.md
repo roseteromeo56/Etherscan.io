@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/4df8204a-48fc-46e4-b805-28649411c1f4
 
-avg-block-size![avg-block-size](https://github.com/user-attachments/assets/a1beadf5-6466-47ef-a662-de68df2d3231)![daily-active-erc20-address](https://github.com/user-attachments/assets/3ef6a5b5-ccab-4b8e-bd46-f61c245fb0a2) daily-active-erc20-address
+
 ![Last 7 Days - Sorted by USD Volume (1)](https://github.com/user-attachments/assets/b4c83e76-7164-43ad-b3e9-c67d8db070dd)
 
 
