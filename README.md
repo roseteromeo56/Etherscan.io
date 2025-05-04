@@ -13,6 +13,11 @@ https://github.com/user-attachments/assets/4df8204a-48fc-46e4-b805-28649411c1f4
 
 ![chain-dark](https://github.com/user-attachments/assets/1ad29358-9e12-4241-b68c-bf031896867f)
 
+![optimism](https://github.com/user-attachments/assets/54d5b178-bacf-48c8-973b-a73050c1a525)
+
+![chain-dark](https://github.com/user-attachments/assets/88ed35e4-b3fa-4070-857f-34985962a6f9)
+![logo-Arbiscan](https://github.com/user-attachments/assets/439af31b-b472-438e-a7fd-7e30ad4cd710)
+
 <!--
 **roseteromeo56/roseteromeo56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![eth-supply-growth](https://github.com/user-attachments/assets/60aea0f7-fa5b-4db6-a4e8-ec1243cbe654)
