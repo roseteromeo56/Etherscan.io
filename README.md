@@ -1,3 +1,4 @@
+![logo-etherscan](https://github.com/user-attachments/assets/902d71b1-f89f-43df-9198-0f96269359da)
 
 
 https://github.com/user-attachments/assets/4df8204a-48fc-46e4-b805-28649411c1f4
@@ -6,6 +7,11 @@ https://github.com/user-attachments/assets/4df8204a-48fc-46e4-b805-28649411c1f4
 ![Last 7 Days - Sorted by USD Volume (1)](https://github.com/user-attachments/assets/b4c83e76-7164-43ad-b3e9-c67d8db070dd)
 
 
+![logo-dark](https://github.com/user-attachments/assets/0b6862dd-86db-4169-a507-1474e3fef0a7)
+
+![metamask](https://github.com/user-attachments/assets/575f2350-d2b6-4289-b176-d6377517a481)
+
+![chain-dark](https://github.com/user-attachments/assets/1ad29358-9e12-4241-b68c-bf031896867f)
 
 <!--
 **roseteromeo56/roseteromeo56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo-etherscan](https://github.com/user-attachments/assets/902d71b1-f89f-43df-9198-0f96269359da)
+
